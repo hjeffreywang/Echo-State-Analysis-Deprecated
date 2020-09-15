@@ -1,1 +1,2 @@
-# Echo-State-Analysis-Deprecated
+# EchoStateNetworks
+Materials related to the Medium article "Predicting Stock Prices with Echo State Networks".
